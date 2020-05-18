@@ -1,16 +1,16 @@
 # Meee
 
-A new Flutter project.
+A simpel RSS reader using Flutter
+Flutterを使った簡単なRSSリーダー
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is Samson at Business Insider Japan. Business Insider Japan is runned by a company called Mediagene and Mediagene runs seven very good media brands, I am hoping to create a single app that will enable the user to read the latest news acorss all seven media.
 
-A few resources to get you started if this is your first Flutter project:
+Business Insider Japanでプロダクトを担当をしているサムソンです。Business Insiderはメディアジーンという会社がやっていて、メディアジーンは他にも７つのメディアをやっています。そこで７つのメディアが見られるニュースアプリが作れないものかとはじめたのがこれになります。
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![完成イメージ GOAL:](https://i.imgur.com/C9z0wxX.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+LOGOS and so on
+ロゴなどのアセット：
+https://www.dropbox.com/sh/atmhr53jynn6oin/AAC-Q6uTRyc6kjqeTj3scJq3a?dl=0
