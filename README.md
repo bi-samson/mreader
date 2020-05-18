@@ -3,7 +3,7 @@
 A simpel RSS reader using Flutter
 Flutterを使った簡単なRSSリーダー
 
-## Getting Started
+## HELLOWORLD
 
 This is Samson at Business Insider Japan. Business Insider Japan is runned by a company called Mediagene and Mediagene runs seven very good media brands, I am hoping to create a single app that will enable the user to read the latest news acorss all seven media.
 
