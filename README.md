@@ -18,4 +18,4 @@ https://www.dropbox.com/sh/atmhr53jynn6oin/AAC-Q6uTRyc6kjqeTj3scJq3a?dl=0
 2020.5.18 A friend had written the app for me, I tried building it for Android and manage to get it running on the phone but it won't read the feeds. PLEASE HELP.
 
 2020.5.18 ベースを作ってもらって、Androidにビルドしてインストールしてみたんですが、フィードが読み込まれないで困っています。助けてください。
-![フィードが読み込まれない STUCK:](https://i.imgur.com/hwWN21C.png)
+![フィードが読み込まれない STUCK:](https://i.imgur.com/I8NZFfP.png)
