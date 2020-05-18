@@ -1,4 +1,4 @@
-# Meee
+# M Reader
 
 A simpel RSS reader using Flutter
 Flutterを使った簡単なRSSリーダー
