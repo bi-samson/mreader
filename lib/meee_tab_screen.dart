@@ -47,7 +47,7 @@ class MeeeTabScreen extends StatelessWidget {
           body: TabBarView(
             children: rssList.map((MeeeRssService rss) {
               return Padding(
-                padding: const EdgeInsets.all(16.0),
+                padding: const EdgeInsets.all(5.0),
                 child: MeeeHomeScreen(rss: rss),
               );
             }).toList(),

@@ -23,6 +23,7 @@ class _WebViewContainerState extends State<WebViewContainer> {
                     key: _key,
                     javascriptMode: JavascriptMode.unrestricted,
                     initialUrl: _url))
+                    
           ],
         ));
   }
