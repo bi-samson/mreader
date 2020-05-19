@@ -24,6 +24,10 @@ const List<MeeeRssService> rssList = const <MeeeRssService>[
         shortName: 'DIGIDAY',
         name: 'DIGIDAY',
         url: 'https://digiday.jp/feed/'),
+    const MeeeRssService(
+        shortName: 'MU',
+        name: 'MashingUp',
+        url: 'https://www.mashingup.jp/index.xml'),
 ];
 
 class MeeeTabScreen extends StatelessWidget {
