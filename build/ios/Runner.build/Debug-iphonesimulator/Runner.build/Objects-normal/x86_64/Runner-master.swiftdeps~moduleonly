@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "384d47fe5a5d8b4f1bfdce000253aefe"
+build_time: [1589776267, 906103000]
+inputs:
+  "/Users/samson/Development/mee/ios/Runner/AppDelegate.swift": [1589723845, 0]
