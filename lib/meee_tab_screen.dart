@@ -9,6 +9,10 @@ const List<MeeeRssService> rssList = const <MeeeRssService>[
         name: 'BUSINESS INSIDER',
         url: 'https://www.businessinsider.jp/feed/index.xml'),
     const MeeeRssService(
+        shortName: 'GIZ',
+        name: 'ギズモード・ジャパン',
+        url: 'https://www.gizmodo.jp/index.xml'),
+    const MeeeRssService(
         shortName: 'LH',
         name: 'ライフハッカー［日本版］',
         url: 'https://www.lifehacker.jp/feed/index.xml'),
