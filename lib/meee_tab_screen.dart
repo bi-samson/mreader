@@ -7,7 +7,7 @@ const List<MeeeRssService> rssList = const <MeeeRssService>[
     const MeeeRssService(
         shortName: 'ALL',
         name: 'ALL',
-        url: 'https://feed.rssunify.com/5ec3c5a15c8d9/rss.xml'),
+        url: 'https://feed.rssunify.com/5ec3cd0c66dc3/rss.xml'),
     const MeeeRssService(
         shortName: 'BI',
         name: 'BUSINESS INSIDER',

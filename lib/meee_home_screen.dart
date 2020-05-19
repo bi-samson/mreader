@@ -43,7 +43,7 @@ class MeeeHomeScreen extends StatelessWidget {
                           leading: leading,
                           title: Text(item.title),
                           subtitle: Text(DateFormat.yMMMMd().format(DateFormat(parseFormat).parse(item.pubDate)),
-                              textAlign: TextAlign.right
+                              textAlign: TextAlign.left
                               ),
                           contentPadding: EdgeInsets.all(4.0),
                           onTap: () async {
