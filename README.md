@@ -15,7 +15,3 @@ Where I am at:
 Goal:
 ![完成イメージ GOAL:](https://i.imgur.com/C9z0wxX.png)
 
-Assets
-https://www.dropbox.com/sh/atmhr53jynn6oin/AAC-Q6uTRyc6kjqeTj3scJq3a?dl=0
-
-
