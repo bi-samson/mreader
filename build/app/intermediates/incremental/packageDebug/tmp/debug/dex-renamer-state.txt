@@ -1,4 +1,4 @@
-#Tue May 19 15:52:43 JST 2020
-base.0=/Users/samson/Development/mee/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Tue May 19 20:48:10 JST 2020
+base.0=/Users/samson/Development/mreader/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

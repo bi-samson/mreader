@@ -5,6 +5,10 @@ import 'meee_rss_service.dart';
 
 const List<MeeeRssService> rssList = const <MeeeRssService>[
     const MeeeRssService(
+        shortName: 'ALL',
+        name: 'ALL',
+        url: 'https://feed.rssunify.com/5ec3c5a15c8d9/rss.xml'),
+    const MeeeRssService(
         shortName: 'BI',
         name: 'BUSINESS INSIDER',
         url: 'https://www.businessinsider.jp/feed/index.xml'),
