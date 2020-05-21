@@ -273,7 +273,7 @@
     },
     {
       "name": "webview_flutter",
-      "rootUri": "file:///Users/samson/Development/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.21",
+      "rootUri": "file:///Users/samson/Development/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.22",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
@@ -290,7 +290,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-05-21T00:31:58.092117Z",
+  "generated": "2020-05-21T01:18:22.195322Z",
   "generator": "pub",
   "generatorVersion": "2.8.2"
 }

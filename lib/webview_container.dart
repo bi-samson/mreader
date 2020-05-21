@@ -22,8 +22,9 @@ class _WebViewContainerState extends State<WebViewContainer> {
                 child: WebView(
                     key: _key,
                     javascriptMode: JavascriptMode.unrestricted,
+                    userAgent: "random",
                     initialUrl: _url))
-                    
+
           ],
         ));
   }
