@@ -25,7 +25,7 @@ const List<MeeeRssService> rssList = const <MeeeRssService>[
         name: 'MYLOHAS',
         url: 'https://www.mylohas.net/index.xml'),
     const MeeeRssService(
-        shortName: 'D',
+        shortName: 'DIGIDAY',
         name: 'DIGIDAY',
         url: 'https://digiday.jp/feed/'),
     const MeeeRssService(
@@ -47,6 +47,7 @@ class MeeeTabScreen extends StatelessWidget {
           appBar: AppBar(
             title: const Text('mediagene'),
             bottom: TabBar(
+              isScrollable: true,
               tabs: rssList.map((MeeeRssService rss) {
                 return Tab(text: rss.shortName);
               }).toList(),
