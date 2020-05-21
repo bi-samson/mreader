@@ -47,6 +47,7 @@ class MeeeTabScreen extends StatelessWidget {
           appBar: AppBar(
             title: const Text('mediagene'),
             bottom: TabBar(
+              indicatorColor: Color(0xFF000000),
               isScrollable: true,
               tabs: rssList.map((MeeeRssService rss) {
                 return Tab(text: rss.shortName);
