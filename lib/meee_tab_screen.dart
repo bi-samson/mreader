@@ -17,11 +17,11 @@ const List<MeeeRssService> rssList = const <MeeeRssService>[
         name: 'ギズモード・ジャパン',
         url: 'https://www.gizmodo.jp/index.xml'),
     const MeeeRssService(
-        shortName: 'LH',
+        shortName: 'lifehacker',
         name: 'ライフハッカー［日本版］',
         url: 'https://www.lifehacker.jp/feed/index.xml'),
     const MeeeRssService(
-        shortName: 'M',
+        shortName: 'MY LOHAS',
         name: 'MYLOHAS',
         url: 'https://www.mylohas.net/index.xml'),
     const MeeeRssService(
@@ -29,7 +29,7 @@ const List<MeeeRssService> rssList = const <MeeeRssService>[
         name: 'DIGIDAY',
         url: 'https://digiday.jp/feed/'),
     const MeeeRssService(
-        shortName: 'MU',
+        shortName: 'MASHING UP',
         name: 'MashingUp',
         url: 'https://www.mashingup.jp/index.xml'),
 ];
